@@ -1,14 +1,11 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Wondering Zebras", "postContent": "West rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla" },
+    { "id": 2, "title": "Terrible Panthers","postContent": "Pihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla" },
+    { "id": 3, "title": "Sweet Lions", "postContent": "Qorro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    { "id": 1, "body": "Gvoluptatem occaecati omnis eligendi s vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut", "userId": 1 },
+    { "id": 2, "body": "Jvolis eligendi aut ad\nvoluptatem doloribus vel accusaae porro eius odio et labore et velit aut", "userId": 1 }
+  ]
 }
